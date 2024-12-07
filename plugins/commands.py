@@ -21,7 +21,7 @@ main_buttons = [[
         InlineKeyboardButton('🎭 ᴊᴏɪɴ ғᴏʀ ᴍᴏᴠɪᴇs 🎭', url='https://t.me/Ni_Movies'),
         InlineKeyboardButton('ᴛʜᴀɴᴋs ᴛᴏ 🦋', url='https://t.me/Nishant_0786')
         ],[
-        InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close_data')
+        InlineKeyboardButton('✘ ᴄʟᴏsᴇ ✘', callback_data='close_data')
         ]]
 #===================Start Function===================#
 
